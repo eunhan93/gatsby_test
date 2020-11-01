@@ -1,7 +1,10 @@
+/**
+ * Configure your Gatsby site with this file.
+ *
+ * See: https://www.gatsbyjs.com/docs/gatsby-config/
+ */
+
 module.exports = {
-  siteMetadata: {
-    title: 'Gatsby Kea Starter',
-    description: 'Gatsby starter with redux and sagas made simpler by https://kea.js.org',
-    author: 'Benjamin Glitsos',
-  },
-};
+  /* Your site config here */
+  plugins: [],
+}
